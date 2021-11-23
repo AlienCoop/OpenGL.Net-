@@ -1,0 +1,44 @@
+C:\Users\PC-Max\source\repos\OpenGL.Net\OpenGL.Net\bin\Debug\OpenGL.Net.exe.config
+C:\Users\PC-Max\source\repos\OpenGL.Net\OpenGL.Net\bin\Debug\OpenGL.Net.exe
+C:\Users\PC-Max\source\repos\OpenGL.Net\OpenGL.Net\bin\Debug\OpenGL.Net.pdb
+C:\Users\PC-Max\source\repos\OpenGL.Net\OpenGL.Net\bin\Debug\OpenTK.dll
+C:\Users\PC-Max\source\repos\OpenGL.Net\OpenGL.Net\bin\Debug\OpenTK.xml
+C:\Users\PC-Max\source\repos\OpenGL.Net\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.AssemblyReference.cache
+C:\Users\PC-Max\source\repos\OpenGL.Net\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.CoreCompileInputs.cache
+C:\Users\PC-Max\source\repos\OpenGL.Net\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.CopyComplete
+C:\Users\PC-Max\source\repos\OpenGL.Net\OpenGL.Net\obj\Debug\OpenGL.Net.exe
+C:\Users\PC-Max\source\repos\OpenGL.Net\OpenGL.Net\obj\Debug\OpenGL.Net.pdb
+D:\Projects\OpenGL.Net\OpenGL.Net\bin\Debug\OpenGL.Net.exe.config
+D:\Projects\OpenGL.Net\OpenGL.Net\bin\Debug\OpenGL.Net.exe
+D:\Projects\OpenGL.Net\OpenGL.Net\bin\Debug\OpenGL.Net.pdb
+D:\Projects\OpenGL.Net\OpenGL.Net\bin\Debug\OpenTK.dll
+D:\Projects\OpenGL.Net\OpenGL.Net\bin\Debug\OpenTK.xml
+D:\Projects\OpenGL.Net\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.AssemblyReference.cache
+D:\Projects\OpenGL.Net\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.CoreCompileInputs.cache
+D:\Projects\OpenGL.Net\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.CopyComplete
+D:\Projects\OpenGL.Net\OpenGL.Net\obj\Debug\OpenGL.Net.exe
+D:\Projects\OpenGL.Net\OpenGL.Net\obj\Debug\OpenGL.Net.pdb
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.AssemblyReference.cache
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.CoreCompileInputs.cache
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.exe
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.pdb
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\bin\Debug\OpenGL.Net.exe.config
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\bin\Debug\OpenGL.Net.exe
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\bin\Debug\OpenGL.Net.pdb
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\bin\Debug\OpenTK.dll
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\bin\Debug\OpenTK.xml
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.Form1.resources
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.GenerateResource.cache
+D:\Projects\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.CopyComplete
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\bin\Debug\OpenGL.Net.exe.config
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\bin\Debug\OpenGL.Net.exe
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\bin\Debug\OpenGL.Net.pdb
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\bin\Debug\OpenTK.dll
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\bin\Debug\OpenTK.xml
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.AssemblyReference.cache
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.Form1.resources
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.GenerateResource.cache
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.csproj.CopyComplete
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.exe
+C:\Users\Николай\Downloads\OpenGL.Net — копия\OpenGL.Net — копия\OpenGL.Net\obj\Debug\OpenGL.Net.pdb
